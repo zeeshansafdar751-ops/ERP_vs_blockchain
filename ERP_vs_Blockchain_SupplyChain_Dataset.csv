@@ -1,0 +1,7 @@
+Supply_Chain_Type,Transparency_Score (1-10),Security_Score (1-10),Cost_Efficiency (1-10),Scalability (1-10),Collaboration_Trust (1-10),Operational_Resilience (1-10)
+ERP-Based,5,6,7,8,5,6
+ERP-Based,6,7,6,7,6,5
+ERP-Based,5,6,7,8,5,6
+Blockchain-Integrated,9,9,8,7,9,9
+Blockchain-Integrated,8,9,9,8,8,8
+Blockchain-Integrated,9,8,8,7,9,9
